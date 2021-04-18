@@ -31,8 +31,8 @@
     "require" : {
         "php" : ">=5.4.0",
         "vatsim/sso" : "3.*",
-        "illuminate/support" : ">=8.*",
-        "illuminate/http" : ">=8.*"
+        "illuminate/support" : "8.*",
+        "illuminate/http" : "8.*"
     },
     "autoload" : {
         "psr-4" : {
