@@ -1,5 +1,5 @@
 {
-    "name" : "vatsim/sso-laravel",
+    "name" : "vnpas/sso-laravel",
     "description" : "VATSIM OAuth for Laravel",
     "keywords" : [
         "vatsim",
@@ -36,7 +36,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "Vatsim\\OAuthLaravel\\" : "src/"
+            "vNPAS\\OAuthLaravel\\" : "src/"
         }
     },
     "minimum-stability" : "dev"
